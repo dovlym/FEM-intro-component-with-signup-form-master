@@ -114,6 +114,7 @@ body{
     color:transparent;
 }
 .btn-primary{
+    margin-top: 15px;
     padding: 17px 0 14px 0;
     width: 420px;
     background-color: var(--secundary-color);
@@ -157,7 +158,8 @@ body{
     font-weight: 400;
 }
 .attribution a { 
-    color:var(--neutral-white);
+    color: black;
+    font-weight: 500;
 }
 
 /*Media queries*/
